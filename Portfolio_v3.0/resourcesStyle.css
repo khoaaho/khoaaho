@@ -1,0 +1,31 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: #171b26;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}
+.naviBar {
+    padding: .6em;
+    background-color:#9402FC;
+}
+.navBar{
+    margin: 1em;
+}
+.naviBar li {
+    display: inline;
+}
+li a:hover {
+    background-color: #111;
+}
+.signature{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signature img{
+    width: 20em;
+}

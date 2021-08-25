@@ -1,0 +1,59 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: #171b26;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}
+h1, h2{
+    text-align: center;
+}
+h1{
+    font-size: 3.5em;
+}
+h2{
+    font-size: 2.5em;
+    text-decoration:underline;
+    margin-top: 7%;
+}
+#subtitle-one, #subtitle-two{
+    text-align: center;
+    font-size: 1.5em;
+}
+.naviBar {
+    padding: .6em;
+    background-color:#9402FC;
+}
+.navBar{
+    margin: 1em;
+}
+.naviBar li {
+    display: inline;
+}
+li a:hover {
+    background-color: #111;
+}
+.signature{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signature img{
+    width: 20em;
+}
+.video{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.video-title{
+    font-size: 1.5em;
+}
+.caption{
+    font-size: 1.25em;
+    text-align: center;
+}
