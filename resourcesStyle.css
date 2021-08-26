@@ -18,6 +18,19 @@ a{
 .naviBar li {
     display: inline;
 }
+
+
+.resourceNavi {
+    padding: .3em;
+    background-color:rgba(3, 73, 252, .6);
+}
+.resourceNaviBar{
+    margin: 1em;
+}
+.resourceNavi li {
+    display: inline;
+    font-size: .75em;
+}
 li a:hover {
     background-color: #111;
 }
@@ -28,4 +41,20 @@ li a:hover {
 }
 .signature img{
     width: 20em;
+}
+#intro-title{
+    font-size: 3.5em;
+    text-align: center;
+}
+#intro-body{
+    font-size: 1.5em;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#disclaimer{
+    font-size: 1em;
+    text-align: center;
+    padding-left: 5%;
+    padding-right: 5%;
 }
