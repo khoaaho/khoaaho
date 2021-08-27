@@ -8,9 +8,6 @@ a{
     color: white;
     font-size: 2em;
 }
-img{
-    width: 20em;
-}
 p{
     font-size: 1.5em;
 }
@@ -24,8 +21,6 @@ p{
 .naviBar li {
     display: inline;
 }
-
-
 .resourceNavi {
     padding: .3em;
     background-color:rgba(3, 73, 252, .6);
@@ -64,50 +59,27 @@ li a:hover {
     padding-left: 5%;
     padding-right: 5%;
 }
-#getting-started{
+#planningAndRecording{
     padding-left: 5%;
     padding-right: 5%;
 }
-#getting-started-title{
+#planning-and-recording-title{
     font-size: 2.5em;
     margin-top: 0;
     margin-bottom: 0;
 }
-#gear, #software{
+#the-idea, #video-treatments, #camera-settings, #things-to-try{
     font-size: 2em;
     text-decoration: underline;
     margin-top: 0.5em;
 }
-#good-gear-bullet{
-    margin-left: 5%;
-    margin-top: 2.5%;
-    margin-bottom: 2.5%;
-    background-color: rgba(255, 255, 41, .6);
-}
-#latest-and-greatest{
-    margin-left: 5%;
-    margin-top: 2.5%;
-    margin-bottom: 2.5%;
-    background-color: rgba(255, 255, 41, .6);
-}
-#camera, #tamron{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-#camera-caption, #tamron-caption{
-    text-align: center;
-}
-#channel-link{
+#treatment-link, #aperture-link, #resources-link{
     font-size: 1em;
     text-decoration: underline;
 }
-#channel-link:hover{
+#treatment-link:hover, #aperture-link:hover, #resources-link:hover{
     background-color: rgba(255, 255, 41, .6);
 }
-.software-example{
+.setting-example, .tip-example{
     font-size: 1.5em;
-}
-#fcpx,#premiere-pro,#davinci{
-    background-color: rgba(3, 73, 252, .6);
 }
