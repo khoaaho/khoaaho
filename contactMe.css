@@ -1,0 +1,89 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    background-color: #171b26;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 2em;
+}
+p{
+    font-size: 1.5em;
+}
+.naviBar {
+    padding: .6em;
+    background-color:#9402FC;
+}
+.navBar{
+    margin: 1em;
+}
+.naviBar li {
+    display: inline;
+}
+li a:hover {
+    background-color: #111;
+}
+.signature{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signature img{
+    width: 20em;
+}
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+  
+  /* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #9402FC;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+  
+  /* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: rgba(3, 73, 252, 1);
+}
+  
+  /* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    background-color: #171b26;
+    padding: 20px;
+}
+
+#first-name-label, #last-name-label, #subject-label{
+    font-family: 'Oswald', sans-serif;
+    background-color: #171b26;
+    color: white;
+    font-size: 1.5em;
+}
+#form-title{
+    font-size: 3.5em;
+    text-align: center;
+    margin-bottom: 0;
+}
+#socials{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#socials a{
+    margin: calc(40%/6);
+}
+#socials img{
+    width: 100%;
+}
