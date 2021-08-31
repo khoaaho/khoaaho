@@ -52,6 +52,7 @@ li a:hover {
 }
 .video-title{
     font-size: 1.5em;
+    text-align: center;
 }
 .caption{
     font-size: 1.25em;
@@ -84,6 +85,19 @@ li a:hover {
     and (min-device-width: 414px) 
     and (max-device-width: 736px) 
     and (-webkit-min-device-pixel-ratio: 3) { 
+    
+    a{
+        font-size: 4em;
+    }
+    .signature img{
+        width: 25em;
+    }
+    .video-title{
+        font-size: 1.75em;
+    }
+    .caption{
+        font-size: 1.5em;
+    }
 
 }
 
@@ -93,6 +107,18 @@ li a:hover {
     and (max-device-width: 812px) 
     and (-webkit-min-device-pixel-ratio: 3) { 
 
+    a{
+        font-size: 4em;
+    }
+    .signature img{
+        width: 25em;
+    }
+    .video-title{
+        font-size: 1.75em;
+    }
+    .caption{
+        font-size: 1.5em;
+    }
 }
 
 /* ----------- iPhone 11 ----------- */
@@ -100,5 +126,36 @@ li a:hover {
     and (device-width: 414px) 
     and (device-height: 896px) 
     and (-webkit-device-pixel-ratio: 3) { 
+    a{
+        font-size: 4em;
+    }
+    .signature img{
+        width: 25em;
+    }
+    .video-title{
+        font-size: 1.75em;
+    }
+    .caption{
+        font-size: 1.5em;
+    }
+
+}
+
+@media only screen 
+    and (device-width: 390px) 
+    and (device-height: 844px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+    a{
+        font-size: 4em;
+    }
+    .signature img{
+        width: 25em;
+    }
+    .video-title{
+        font-size: 1.75em;
+    }
+    .caption{
+        font-size: 1.5em;
+    }
 
 }
