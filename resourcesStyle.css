@@ -19,7 +19,7 @@ p{
     background-color:#9402FC;
 }
 .navBar{
-    margin: 1em;
+    margin: 1.5em;
 }
 .naviBar li {
     display: inline;
@@ -31,11 +31,11 @@ p{
     background-color:rgba(3, 73, 252, .6);
 }
 .resourceNaviBar{
-    margin: 1em;
+    margin: 1.5em;
 }
 .resourceNavi li {
     display: inline;
-    font-size: .75em;
+    font-size: .85em;
 }
 li a:hover {
     background-color: #111;

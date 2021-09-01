@@ -5,8 +5,7 @@ body{
     font-family: 'Oswald', sans-serif;
     background-color: #171b26;
     color: white;
-    margin: 0;
-    padding: 0;
+    
 }
 a{
     text-decoration: none;
@@ -34,7 +33,7 @@ h2{
     background-color:#9402FC;
 }
 .navBar{
-    margin: 1em;
+    margin: 1.5em;
 }
 .naviBar li {
     display: inline;
