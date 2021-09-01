@@ -129,6 +129,12 @@ li a:hover {
     img{
         width: 10em;
     }
+    #intro-body{
+        font-size: 25px;
+    }
+    #disclaimer{
+        font-size: 20px;
+    }
 
 }
 
@@ -137,6 +143,21 @@ li a:hover {
     and (min-device-width: 414px) 
     and (max-device-width: 736px) 
     and (-webkit-min-device-pixel-ratio: 3) { 
+    a{
+        font-size: 4em;
+    }
+    .signature img{
+        width: 25em;
+    }
+    img{
+        width: 10em;
+    }
+    #intro-body{
+        font-size: 25px;
+    }
+    #disclaimer{
+        font-size: 20px;
+    }
 
 }
 
@@ -145,6 +166,21 @@ li a:hover {
     and (min-device-width: 375px) 
     and (max-device-width: 812px) 
     and (-webkit-min-device-pixel-ratio: 3) { 
+    a{
+        font-size: 4em;
+    }
+    .signature img{
+        width: 25em;
+    }
+    img{
+        width: 10em;
+    }
+    #intro-body{
+        font-size: 25px;
+    }
+    #disclaimer{
+        font-size: 20px;
+    }
 
 }
 
@@ -153,5 +189,44 @@ li a:hover {
     and (device-width: 414px) 
     and (device-height: 896px) 
     and (-webkit-device-pixel-ratio: 3) { 
+    a{
+        font-size: 4em;
+    }
+    .signature img{
+        width: 25em;
+    }
+    img{
+        width: 10em;
+    }
+    #intro-body{
+        font-size: 25px;
+    }
+    #disclaimer{
+        font-size: 20px;
+    }
+
+}
+
+/* iPhone 12 */
+@media only screen 
+    and (device-width: 390px) 
+    and (device-height: 844px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+    
+    a{
+        font-size: 4em;
+    }
+    .signature img{
+        width: 25em;
+    }
+    img{
+        width: 10em;
+    }
+    #intro-body{
+        font-size: 25px;
+    }
+    #disclaimer{
+        font-size: 20px;
+    }
 
 }
