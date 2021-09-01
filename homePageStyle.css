@@ -115,3 +115,16 @@ li a:hover {
     and (-webkit-device-pixel-ratio: 3) { 
 
 }
+
+/* iPhone 12 */
+@media only screen 
+    and (device-width: 390px) 
+    and (device-height: 844px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+    .intro-text{
+        font-size: 40px;
+    }
+    #ender{
+        font-size: 40px;
+    }
+}
