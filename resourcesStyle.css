@@ -130,13 +130,13 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 35px;
+        font-size: 40px;
     }
     #disclaimer{
-        font-size: 30px;
+        font-size: 35px;
     }
     p{
-        font-size: 30px;
+        font-size: 40px;
     }
     /* #getting-started-title{
         font-size: 2.5em;
@@ -144,13 +144,13 @@ li a:hover {
         margin-bottom: 0;
     } */
     #gear, #software{
-        font-size: 35px;
+        font-size: 50px;
     }
     #channel-link{
-        font-size: 30px;
+        font-size: 40px;
     }
     .software-example{
-        font-size: 30px;
+        font-size: 40px;
     }
 
 }
@@ -170,13 +170,13 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 35px;
+        font-size: 40px;
     }
     #disclaimer{
-        font-size: 30px;
+        font-size: 35px;
     }
     p{
-        font-size: 30px;
+        font-size: 40px;
     }
     /* #getting-started-title{
         font-size: 2.5em;
@@ -184,13 +184,13 @@ li a:hover {
         margin-bottom: 0;
     } */
     #gear, #software{
-        font-size: 35px;
+        font-size: 50px;
     }
     #channel-link{
-        font-size: 30px;
+        font-size: 40px;
     }
     .software-example{
-        font-size: 30px;
+        font-size: 40px;
     }
 
 }
@@ -210,13 +210,13 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 35px;
+        font-size: 40px;
     }
     #disclaimer{
-        font-size: 30px;
+        font-size: 35px;
     }
     p{
-        font-size: 30px;
+        font-size: 40px;
     }
     /* #getting-started-title{
         font-size: 2.5em;
@@ -224,13 +224,13 @@ li a:hover {
         margin-bottom: 0;
     } */
     #gear, #software{
-        font-size: 35px;
+        font-size: 50px;
     }
     #channel-link{
-        font-size: 30px;
+        font-size: 40px;
     }
     .software-example{
-        font-size: 30px;
+        font-size: 40px;
     }
 
 }
@@ -240,6 +240,7 @@ li a:hover {
     and (device-width: 414px) 
     and (device-height: 896px) 
     and (-webkit-device-pixel-ratio: 3) { 
+    
     a{
         font-size: 4em;
     }
@@ -250,13 +251,13 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 35px;
+        font-size: 40px;
     }
     #disclaimer{
-        font-size: 30px;
+        font-size: 35px;
     }
     p{
-        font-size: 30px;
+        font-size: 40px;
     }
     /* #getting-started-title{
         font-size: 2.5em;
@@ -264,13 +265,13 @@ li a:hover {
         margin-bottom: 0;
     } */
     #gear, #software{
-        font-size: 35px;
+        font-size: 50px;
     }
     #channel-link{
-        font-size: 30px;
+        font-size: 40px;
     }
     .software-example{
-        font-size: 30px;
+        font-size: 40px;
     }
 
 }
@@ -291,13 +292,13 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 35px;
+        font-size: 40px;
     }
     #disclaimer{
-        font-size: 30px;
+        font-size: 35px;
     }
     p{
-        font-size: 30px;
+        font-size: 40px;
     }
     /* #getting-started-title{
         font-size: 2.5em;
@@ -305,13 +306,13 @@ li a:hover {
         margin-bottom: 0;
     } */
     #gear, #software{
-        font-size: 35px;
+        font-size: 50px;
     }
     #channel-link{
-        font-size: 30px;
+        font-size: 40px;
     }
     .software-example{
-        font-size: 30px;
+        font-size: 40px;
     }
 
 }
