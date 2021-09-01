@@ -1,7 +1,12 @@
+html, body {
+    overflow-x:hidden;
+}
 body{
     font-family: 'Oswald', sans-serif;
     background-color: #171b26;
     color: white;
+    margin: 0;
+    padding: 0;
 }
 a{
     text-decoration: none;
@@ -9,6 +14,7 @@ a{
     font-size: 2em;
 }
 h1, h2{
+
     text-align: center;
 }
 h1{
@@ -53,14 +59,16 @@ li a:hover {
 .video-title{
     font-size: 1.5em;
     text-align: center;
+    width: 90%;
     padding-left: 5%;
     padding-right: 5%;
 }
 .caption{
     font-size: 1.25em;
     text-align: center;
-    padding-left: 5%;
-    padding-right: 5%;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 /* ----------- iPhone 6, 6S, 7 and 8 ----------- */
