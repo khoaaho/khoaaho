@@ -65,11 +65,11 @@ li a:hover {
     padding-left: 5%;
     padding-right: 5%;
 }
-#planning-and-recording-title{
+/* #planning-and-recording-title{
     font-size: 2.5em;
     margin-top: 0;
     margin-bottom: 0;
-}
+} */
 #the-idea, #video-treatments, #camera-settings, #things-to-try{
     font-size: 2em;
     text-decoration: underline;
@@ -98,6 +98,27 @@ li a:hover {
     .signature img{
         width: 25em;
     }
+    img{
+        width: 10em;
+    }
+    #intro-body{
+        font-size: 35px;
+    }
+    #disclaimer{
+        font-size: 30px;
+    }
+    p{
+        font-size: 30px;
+    }
+    #the-idea, #video-treatments, #camera-settings, #things-to-try{
+        font-size: 35px;
+    }
+    #treatment-link, #aperture-link, #resources-link{
+        font-size: 30px;
+    }
+    .setting-example, .tip-example{
+        font-size: 30px;
+    }
 
 }
 
@@ -117,10 +138,22 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 25px;
+        font-size: 35px;
     }
     #disclaimer{
-        font-size: 20px;
+        font-size: 30px;
+    }
+    p{
+        font-size: 30px;
+    }
+    #the-idea, #video-treatments, #camera-settings, #things-to-try{
+        font-size: 35px;
+    }
+    #treatment-link, #aperture-link, #resources-link{
+        font-size: 30px;
+    }
+    .setting-example, .tip-example{
+        font-size: 30px;
     }
 
 }
@@ -140,10 +173,22 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 25px;
+        font-size: 35px;
     }
     #disclaimer{
-        font-size: 20px;
+        font-size: 30px;
+    }
+    p{
+        font-size: 30px;
+    }
+    #the-idea, #video-treatments, #camera-settings, #things-to-try{
+        font-size: 35px;
+    }
+    #treatment-link, #aperture-link, #resources-link{
+        font-size: 30px;
+    }
+    .setting-example, .tip-example{
+        font-size: 30px;
     }
 
 }
@@ -163,10 +208,22 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 25px;
+        font-size: 35px;
     }
     #disclaimer{
-        font-size: 20px;
+        font-size: 30px;
+    }
+    p{
+        font-size: 30px;
+    }
+    #the-idea, #video-treatments, #camera-settings, #things-to-try{
+        font-size: 35px;
+    }
+    #treatment-link, #aperture-link, #resources-link{
+        font-size: 30px;
+    }
+    .setting-example, .tip-example{
+        font-size: 30px;
     }
 
 }
@@ -186,10 +243,22 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 25px;
+        font-size: 35px;
     }
     #disclaimer{
-        font-size: 20px;
+        font-size: 30px;
+    }
+    p{
+        font-size: 30px;
+    }
+    #the-idea, #video-treatments, #camera-settings, #things-to-try{
+        font-size: 35px;
+    }
+    #treatment-link, #aperture-link, #resources-link{
+        font-size: 30px;
+    }
+    .setting-example, .tip-example{
+        font-size: 30px;
     }
 
 }
@@ -210,10 +279,22 @@ li a:hover {
         width: 10em;
     }
     #intro-body{
-        font-size: 25px;
+        font-size: 35px;
     }
     #disclaimer{
-        font-size: 20px;
+        font-size: 30px;
+    }
+    p{
+        font-size: 30px;
+    }
+    #the-idea, #video-treatments, #camera-settings, #things-to-try{
+        font-size: 35px;
+    }
+    #treatment-link, #aperture-link, #resources-link{
+        font-size: 30px;
+    }
+    .setting-example, .tip-example{
+        font-size: 30px;
     }
 
 }
